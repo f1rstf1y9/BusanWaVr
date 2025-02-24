@@ -29,7 +29,7 @@ SSAFY 부울경 캠퍼스에서 반년 간 교육을 들으며 부산 지역에�
 
 - 지역별 투어 및 추천 투어 확인
 
-| <img title="" src="#" alt="" width="386"> | <img title="" src="#" alt="" width="386"> |
+| <img title="" src="https://github.com/user-attachments/assets/afa32ec3-a810-4467-b4b3-d89697efe9a8" alt="" width="386"> | <img title="" src="https://github.com/user-attachments/assets/a7463a06-969d-4dc3-a550-268ef2942ad4" alt="" width="386"> |
 | --- | --- |
 | 메인 페이지 | 로그인 |
 
@@ -40,44 +40,61 @@ SSAFY 부울경 캠퍼스에서 반년 간 교육을 들으며 부산 지역에�
 - 예정된 투어 일정 확인
 - 찜한 투어 확인
 
-| <img title="" src="https://github.com/f1rstf1y9/BeNurse/raw/master/Readme_assets/Web_mkschedule.gif" alt="" width="386"> | <img title="" src="https://github.com/f1rstf1y9/BeNurse/raw/master/Readme_assets/Web_Setting.gif" alt="" width="386"> |
+| <img title="" src="https://github.com/user-attachments/assets/c1cdfa6c-c1ed-4811-9078-b960e3f51420" alt="" width="386"> | <img title="" src="https://github.com/user-attachments/assets/6c52cc24-08a3-46fc-b220-a7a545543bce" alt="" width="386"> |
 | --- | --- |
-| 근무표 생성 | 병원 관리 |
+| 마이페이지 메인 | 예정된 투어 일정 |
 
 <br>
 
-**3.** 투어 작성 페이지 <br>
+**3. 투어 작성 페이지** <br>
 
 - 투어 지역, 카테고리, 기간, 인원 설정
 - 투어 상세 정보 포스트 작성
 - 카카오 지도 API 활용 투어 코스 등록
 
-**4.** 투어 검색 페이지 <br>
+| <img title="" src="https://github.com/user-attachments/assets/d0905ebf-7c46-4fcb-a46f-1b075090d1da" alt="" width="386"> | <img title="" src="https://github.com/user-attachments/assets/5a19ea10-28f0-47eb-8007-a0c0561f6e38" alt="" width="386"> |
+| --- | --- |
+| 투어 작성 | 투어 코스 등록 |
+
+**4. 투어 검색 및 투어 상세 페이지** <br>
 
 - 제목, 가이드, 코스, 카테고리, 지역에 따라 투어 검색
-
-**5.** 투어 상세 페이지 <br>
-
 - 투어 상세 정보 확인
 - 투어 찜하기 / 투어 예약하기
 
-**6. 메이트 모집** 페이지 <br>
+| <img title="" src="https://github.com/user-attachments/assets/6635eaae-6ba4-4901-8bc4-fe45683edb2d" alt="" width="386"> | <img title="" src="https://github.com/user-attachments/assets/3a59ce73-6b42-43e7-b1da-45dfa26db167" alt="" width="386"> |
+| --- | --- |
+| 투어 검색 | 투어 상세 페이지 |
+
+**5. 메이트 모집 페이지** <br>
 
 - 특정 투어에 함께 할 메이트 구인글 작성
 - 투어의 현재 참여 인원 확인
 
-**7. 투어 시작 페이지**
+| <img title="" src="https://github.com/user-attachments/assets/bb472460-fb0f-4d57-8eef-a17dd79706d1" alt="" width="386"> | <img title="" src="https://github.com/user-attachments/assets/67f25e3c-fb2a-4c4d-82e2-8bfa199821c0" alt="" width="386"> |
+| --- | --- |
+| 메이트 구인글 작성 | 메이트 상세 페이지 |
+
+**6. 투어 시작 페이지**
 
 - 유튜브 라이브 링크와 연동하여 투어 시작
 - 카메라 및 마이크 설정
 
-**8. 투어 스트리밍 화면**
+| <img title="" src="https://github.com/user-attachments/assets/bb472460-fb0f-4d57-8eef-a17dd79706d1" alt="" width="386"> |
+| --- |
+| 투어 시작 페이지 |
+
+**7. 투어 스트리밍 화면**
 
 - 360도 스트리밍 화면
 - 투어 참여자 간 실시간 화상 채팅
 - 음성 인식 채팅
 - 동작 인식 기반 실시간 투표
 - VR 기기용 스트리밍 화면으로 연결되는 QR코드
+
+| <img title="" src="https://github.com/user-attachments/assets/117be200-5d8a-404c-90d7-e7f49ea0ad9a" alt="" width="386"> | <img title="" src="https://github.com/user-attachments/assets/ea8cea26-d227-4e29-88b0-1c5fc1f47249" alt="" width="386"> |
+| --- | --- |
+| 스트리밍 화면 | VR 카드보드 시연 |
 
 <br>
 
@@ -93,7 +110,7 @@ SSAFY 부울경 캠퍼스에서 반년 간 교육을 들으며 부산 지역에�
 
 ### Backend
 
-<img src="[https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)"> <img src="[https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white](https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)"> <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+<img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 
 ### Infra
 
@@ -114,7 +131,7 @@ SSAFY 부울경 캠퍼스에서 반년 간 교육을 들으며 부산 지역에�
 ```
 📂 BackEnd
   └─ 📂 src
-      └─ 📂 main
+      ├─ 📂 main
       │   ├─ 📂 generated/com/example/backend/model
       │   │   ├─ 📂 category
       │   │   ├─ 📂 chat
